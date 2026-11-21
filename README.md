@@ -7,9 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Curious+about+technology.;Building+ideas+into+something+real.;Learning+one+project+at+a+time.;Sometimes+the+bugs+win." alt="Typing animation" />
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yashraaj1205&color=0e75b6&style=flat)
 
 </div>
 
